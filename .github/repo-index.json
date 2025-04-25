@@ -1,0 +1,8 @@
+{
+  "https://github.com/nginx/nginx": {
+    "path": "commands/nginx",
+    "category": "Web Server",
+    "name": "nginx",
+    "description": "The official NGINX Open Source repository."
+  }
+}
