@@ -10,5 +10,11 @@
     "category": "Automation",
     "name": "n8n",
     "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+  },
+  "https://github.com/apache/httpd": {
+    "path": "commands/apache",
+    "category": "Web Server",
+    "name": "httpd",
+    "description": "Mirror of Apache HTTP Server. Issues: http://issues.apache.org"
   }
 }
