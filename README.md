@@ -12,6 +12,7 @@ A curated collection of Docker run commands that can be easily deployed via [Dep
 - [How to contribute](#how-to-contribute)
 - [Community](#community)
 - [Applications](#applications)
+  - [Automation](#automation)
   - [Web Server](#web-server)
 - [License](#license)
 <!-- TOC_END -->
@@ -47,6 +48,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
 ## Applications
 
 <!-- APPLICATIONS_START -->
+
+### Automation
+
+- [n8n](commands/n8n/) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ### Web Server
 
