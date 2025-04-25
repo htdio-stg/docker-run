@@ -55,6 +55,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
 
 ### Web Server
 
+- [httpd](commands/apache/) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 - [nginx](commands/nginx/) - The official NGINX Open Source repository.
 
 <!-- APPLICATIONS_END -->
