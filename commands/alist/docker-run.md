@@ -1,5 +1,5 @@
 ---
-repo: "https://github.com/AlistGo/alist?tab=readme-ov-file"
+repo: "https://github.com/AlistGo/alist"
 category: "List"
 ---
 
