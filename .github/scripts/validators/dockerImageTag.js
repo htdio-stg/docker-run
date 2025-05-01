@@ -45,10 +45,10 @@ function validateDockerImageTag(fileContent, filePath) {
   const image = parts[imageIndex];
   
   // Check if the image has a tag (contains a colon that's not part of a registry port)
-  const tagRegex = /^(?:[^/]+\/)?[^/:]+(?::[^/]+)?\/[^/:]+|^(?:[^/]+\/)?[^/:]+:([^/]+)$/;
-  const tagMatch = image.match(tagRegex);
+  // Fixed regex to properly handle username/repository:tag format
+  const hasTag = /:([^/]+)$/.test(image);
   
-  if (!tagMatch || !tagMatch[1]) {
+  if (!hasTag) {
     return `Docker image "${image}" in ${filePath} does not specify a tag. Please use a specific tag (e.g., ${image}:latest)`;
   }
   
