@@ -14,6 +14,7 @@ A curated collection of Docker run commands that can be easily deployed via [Dep
 - [Applications](#applications)
   - [Automation](#automation)
   - [CMS](#cms)
+  - [List](#list)
   - [Web Server](#web-server)
 - [License](#license)
 <!-- TOC_END -->
@@ -57,6 +58,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
 ### CMS
 
 - [Ghost](commands/ghost/) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
+
+### List
+
+- [alist](commands/alist/) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 ### Web Server
 
