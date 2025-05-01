@@ -1,6 +1,6 @@
 # 🚀 IaC Templates for [repository_name]
 
-> This repository contains automatically generated Infrastructure as Code templates by [DeployStack.io](https://deploystack.io/c/[app_url])
+> View deploy stats for [repository_name] in [DeployStack catalog](https://deploystack.io/c/[app_url])
 
 ## ⚡ One-Click Deploy
 
