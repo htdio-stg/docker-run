@@ -16,5 +16,11 @@
     "category": "Web Server",
     "name": "httpd",
     "description": "Mirror of Apache HTTP Server. Issues: http://issues.apache.org"
+  },
+  "https://github.com/TryGhost/Ghost": {
+    "path": "commands/ghost",
+    "category": "CMS",
+    "name": "Ghost",
+    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
   }
 }
