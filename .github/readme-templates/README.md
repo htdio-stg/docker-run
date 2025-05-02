@@ -9,11 +9,11 @@
 | AWS | <a href="[deploy_path_aws_cfn]"><img src="https://github.com/htdio-stg/deploy-templates/blob/main/.assets/img/aws.svg" height="38"></a> |
 | DigitalOcean | <a href="[deploy_path_do_dop]"><img src="https://github.com/htdio-stg/deploy-templates/blob/main/.assets/img/do.svg" height="38"></a> |
 | Render | <a href="[deploy_path_rnd_rnd]"><img src="https://github.com/htdio-stg/deploy-templates/blob/main/.assets/img/rnd.svg" height="38"></a> |
-| Helm | `helm repo add deploystack https://deploystackio.github.io/deploy-templates/`<br>`helm repo update`<br>`helm install [repository_name_lowercase] deploystack/[app_branch_name]` |
+| Helm | `helm repo add htdiostg https://htdio-stg.github.io/deploy-templates/`<br>`helm repo update`<br>`helm install [repository_name_lowercase] htdiostg/[app_branch_name]` |
 
 ## 📦 IaC templates
 
-- IaC templates are stored within the [deploystackio/deploy-templates](https://github.com/deploystackio/deploy-templates/tree/main/[app_url]) repository.
+- IaC templates are stored within the [deploystackio/deploy-templates](https://github.com/htdio-stg/deploy-templates/tree/main/[app_url]) repository.
 
 ## 🔄 Updates
 
