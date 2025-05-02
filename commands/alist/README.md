@@ -9,7 +9,7 @@
 | AWS | <a href="[deploy_path_aws_cfn]"><img src="https://github.com/htdio-stg/deploy-templates/blob/main/.assets/img/aws.svg" height="38"></a> |
 | DigitalOcean | <a href="[deploy_path_do_dop]"><img src="https://github.com/htdio-stg/deploy-templates/blob/main/.assets/img/do.svg" height="38"></a> |
 | Render | <a href="[deploy_path_rnd_rnd]"><img src="https://github.com/htdio-stg/deploy-templates/blob/main/.assets/img/rnd.svg" height="38"></a> |
-| Helm | `helm repo add deploystack https://deploystackio.github.io/deploy-templates/`<br>`helm repo update`<br>`helm install alist deploystack/alistgo-alist` |
+| Helm | `helm repo add htdiostg https://htdio-stg.github.io/deploy-templates/`<br>`helm repo update`<br>`helm install alist htdiostg/alistgo-alist` |
 
 ## 📦 IaC templates
 
